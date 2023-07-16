@@ -1,2 +1,2 @@
 # Open World
-A framework for simulating LLM agents, for sociological research and beyond.
+An open framework for simulating LLM agents, for sociological research and beyond.
