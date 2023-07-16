@@ -4,4 +4,4 @@
 
 — Heinz von Foerster
 
-An open framework for simulating LLM agents--for sociological research, detailed simulations, and more.
+An open-source framework designed to simulate LLM agents for various applications, including but not limited to sociological research, gaming, and more.
